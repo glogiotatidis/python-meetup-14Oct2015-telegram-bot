@@ -1,0 +1,24 @@
+* What's Telegram
+** Why Telegram bots?
+- https://core.telegram.org/bots
+
+* Code
+- Bot Class
+- Process Messages
+- python-telegram-bot
+- bottle
+- honcho
+* Register telegram bot
+- Talk to BotFather
+- Token in source code
+* Deploy
+- heroku create app
+- edit webhook
+- Push to production
+* Test
+* Remarks
+- Telegram is fun
+- Bottle is super sweet for small webapps
+- VereseBot
+- Heroku has super nice features but you don't have to use it. Dokku is open source and fun and it supports Docker.
+* Yay!
